@@ -2,6 +2,9 @@
 
 A professional portfolio website for GlobalVideotech, a wedding photography and videography company based in Mehsana, Gujarat, India.
 
+<img width="1440" height="900" alt="Global Video Tech" src="https://github.com/user-attachments/assets/ed600f85-27d9-4d23-ba37-8d7886a67ff2" />
+
+
 ## 🎬 About
 
 GlobalVideotech specializes in capturing life's most precious moments through professional photography and videography services. This website showcases their work and provides a platform for clients to get in touch.
